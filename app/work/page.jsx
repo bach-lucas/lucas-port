@@ -19,7 +19,7 @@ const projects = [
     description: "Esse projeto foi baseado no site do Spotify de 2015, feito com bootstrap.",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Bootstrap" }],
     image: "/assets/work/spotify.png",
-    live: "https://ugc2885.github.io/SpotifyReplica/",
+    live: "https://bach-lucas.github.io/SpotifyReplica/",
     github: "https://github.com/UGC2885/SpotifyReplica",
   },
   {
@@ -29,7 +29,7 @@ const projects = [
     description: "Site feito para simular um banco.",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Bootstrap" }],
     image: "/assets/work/finans.png",
-    live: "https://ugc2885.github.io/Finans/",
+    live: "https://bach-lucas.github.io/Finans/",
     github: "https://github.com/UGC2885/Finans",
   },
   {
@@ -39,7 +39,7 @@ const projects = [
     description: "Primeiro projeto de jogo com JS",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Bootstrap" }, { name: "JavaScript" }],
     image: "/assets/work/orca.png",
-    live: "https://ugc2885.github.io/AppOr-amentoPessoal/",
+    live: "https://bach-lucas.github.io/AppOr-amentoPessoal/",
     github: "https://github.com/UGC2885/APPORCAMENTOPESSOALteste",
   },
 ];
