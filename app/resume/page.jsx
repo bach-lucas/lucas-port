@@ -17,7 +17,7 @@ const about = {
     },
     {
       fieldName: "Email",
-      fieldValue: "lucas_unzer@hotmail.com"
+      fieldValue: "lucass.unzer@gmail.com"
     },
     {
       fieldName: "Celular",
