@@ -30,7 +30,7 @@ const projects = [
     stack: [{ name: "React" }, { name: "Node.js" }, { name: "Vite.js" }, { name: "TailwindCss" }, { name: "TypeScript" }],
     image: "/assets/work/pizza.png",
     live: "https://github.com/bach-lucas",
-    github: "https://github.com/bach-lucas",
+    github: "https://github.com/bach-lucas/PizzaProMaster",
   },
 ];
 

@@ -43,7 +43,7 @@ const about = {
 const experience = {
   icon: "/assets/resume/badge.svg",
   title: "Minha experiência",
-  description: "Searching...",
+  description: "Desenvolvedor full stack",
   items: [
 
     {
